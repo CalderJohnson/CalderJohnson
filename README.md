@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalderJohnson
 - 👀 I’m interested in Web Development, low level and embedded programs, and making indie games.
-- 🌱 I’m currently learning C#, Unity, and serverside web development.
+- 🌱 I’m currently exploring OSDev and learning serverside web development.
 - 📫 How to reach me? Discord: Star#1895
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalderJohnson&theme=radical)
