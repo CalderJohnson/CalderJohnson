@@ -4,7 +4,6 @@
 - 📫 How to reach me? Discord: Star#1895
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalderJohnson&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=CalderJohnson&show_icons=true&locale=en&layout=compact)
 
 <!---
 CalderJohnson/CalderJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
