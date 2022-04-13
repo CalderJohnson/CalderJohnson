@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalderJohnson
 - 👀 I’m interested in Web Development, low level and embedded programs, and making indie games.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently exploring OSDev
 - 📫 How to reach me? Discord: Star#1895
 
 ![Progression Stats](https://github-readme-stats.vercel.app/api?username=CalderJohnson&theme=radical)
