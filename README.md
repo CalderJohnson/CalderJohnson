@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning to become a fullstack dev!
 - 📫 How to reach me? Discord: Star#1895
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calderjohnson&show_icons=true&locale=en&layout=compact" alt="cj" /></p>
+
 ```c
 #define bool _Bool
 #define true 1
