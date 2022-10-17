@@ -5,3 +5,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calderjohnson&show_icons=true&locale=en&layout=compact" alt="cj" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calderjohnson&show_icons=true&locale=en" alt="cj" /></p>
+![](https://komarev.com/ghpvc/?username=CalderJohnson)
