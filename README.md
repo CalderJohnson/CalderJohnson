@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalderJohnson
-- 👀 I’m interested in Web Development, low level and embedded programs, and making indie games.
+- 👀 I’m interested in Artificial Intelligence, Web Development, low level and embedded programs, and making indie games.
 - 🌱 I’m currently learning to become a fullstack dev!
 - 📫 How to reach me? Discord: Star#1895
 
